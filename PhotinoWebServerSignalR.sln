@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotinoWebServerSignalR", "PhotinoWebServerSignalR\PhotinoWebServerSignalR.csproj", "{CFB0FB5B-9D42-42C2-B00C-2DEF2BE2293B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB0FB5B-9D42-42C2-B00C-2DEF2BE2293B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB0FB5B-9D42-42C2-B00C-2DEF2BE2293B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB0FB5B-9D42-42C2-B00C-2DEF2BE2293B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB0FB5B-9D42-42C2-B00C-2DEF2BE2293B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49AC07E4-63FA-4BAE-AC58-752A68C970A8}
+	EndGlobalSection
+EndGlobal
