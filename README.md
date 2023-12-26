@@ -719,7 +719,7 @@ Target Runtime = win-x64. This needs to match the OS you wish to run the app on.
 
 Produce single file = true. So we create a single exe file.
 
-Trim unused code is optional.
+Trim unused code: For this project we want to leave this disabled. This will make our app larger, but we need the extra stuff in this case for our serialisations to work. There are ways to fix this and still use the Trim feature, but that is outside the scope of this tutorial.
 
 ![image](https://github.com/Nicks182/PhotinoCustomFileServer/assets/13113785/61d3c1f7-b5b1-446b-85cc-ac7a12e2d4f5)
 
